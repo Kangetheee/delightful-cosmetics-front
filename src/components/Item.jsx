@@ -75,7 +75,7 @@ const Item = ({ product }) => {
       <div className='p-3'>
         <div className='flexBetween'>
           <h5 className='text-[16px] font-bold text-gray-900/50'>{product.category}</h5>
-          <div className='text-secondary bold-18'>${product.price}</div>
+          <div className='text-secondary bold-18'>KSH {product.price}</div>
         </div>
         <h4 className='medium-18 mb-1 line-clamp-1'>{product.name}</h4>
         <p className='line-clamp-2'>{product.description}</p>

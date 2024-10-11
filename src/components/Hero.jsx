@@ -12,7 +12,7 @@ const Hero = () => {
           <div>
             <h4 className='uppercase medium-18 tracking-wider'>Dress Essentials</h4>
             <h2 className='h1 capitalize max-w-[40rem]'>
-              Upgrade Your Wardrobe <span className='text-secondary'> just a click away.</span>
+              Upgrade Your Wardrobe <span className='text-primary'> just a click away.</span>
               Shop with us Today!
             </h2>
             <p className='my-5 max-w-[33rem]'>

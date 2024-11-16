@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^1.7.7",
     "caniuse-lite": "^1.0.30001664",
+    "firebase": "^11.0.2",
     "intasend-inlinejs-sdk": "^4.0.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
